@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Bimo 👋
 
 QA Engineer testing Flask apps by day, learning Flutter/Dart to escape web development by night.
 
